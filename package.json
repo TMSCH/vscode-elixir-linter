@@ -90,7 +90,7 @@
     "@types/node": "^10.3.2",
     "assert": "^1.4.1",
     "mocha": "^5.2.0",
-    "nodemon": "^1.17.5",
+    "nodemon": "^1.18.3",
     "sinon": "^6.0.0",
     "tslint": "^5.10.0",
     "typescript": "^2.9.2",
